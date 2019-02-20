@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:background="@android:color/background_light"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize">
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center|start"
+            android:layout_marginLeft="5sp"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:text="@string/intern"
+            android:layout_marginStart="5sp"/>
+
+</android.support.v7.widget.Toolbar>
+
